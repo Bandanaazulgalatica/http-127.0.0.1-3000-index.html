@@ -1,0 +1,48 @@
+body{
+    color:rgb(25, 25, 92);
+    background-color:rgb(159, 16, 16);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+
+}
+
+a {
+    color: rgb(25, 25, 92);
+    text-decoration: none;
+}
+
+img {
+    width: 900px;
+    height: 200px;
+    border-radius: 0%;
+    border: 3px solid rgb(26, 26, 101)
+}
+
+.center {
+
+    text-align: center;
+    }
+    
+    footer {
+    
+        justify-content: center;
+    
+    }
+
+footer img{
+
+    width: 40px;
+    height: 40px;
+}
+
+.container{
+
+    padding: 0px 300px;
+}
